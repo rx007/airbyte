@@ -1,4 +1,4 @@
-FROM nginx:1.19-alpine as webapp
+FROM nginx:1.21.6-alpine as webapp
 
 EXPOSE 80
 
