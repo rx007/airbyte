@@ -1,4 +1,4 @@
-FROM debian:10.5-slim
+FROM debian:10.13-slim
 
 WORKDIR /airbyte
 
