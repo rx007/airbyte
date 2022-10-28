@@ -1,4 +1,4 @@
-FROM mongo:4.0.23
+FROM mongo:4.2
 
 COPY ./integration_tests /integration_tests
 
