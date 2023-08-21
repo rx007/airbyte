@@ -21,7 +21,7 @@
     "@sentry/react": "^6.11.0",
     "@sentry/tracing": "^6.11.0",
     "dayjs": "^1.8.35",
-    "firebase": "^9.0.1",
+    "firebase": "^10.2.0",
     "flat": "^5.0.2",
     "formik": "2.1.5",
     "lodash.get": "^4.4.2",
