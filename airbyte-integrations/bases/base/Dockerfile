@@ -1,4 +1,4 @@
-FROM debian:10.5-slim
+FROM debian:buster-20230904-slim
 
 WORKDIR /airbyte
 
