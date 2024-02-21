@@ -1,4 +1,4 @@
-FROM python:3.7-slim as base
+FROM python:3.8.18-slim as base
 
 # build and load all requirements
 FROM base as builder
