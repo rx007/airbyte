@@ -1,4 +1,4 @@
-FROM ruby:3.0-alpine
+FROM ruby:3.3.5-alpine
 
 RUN apk update
 RUN apk add --update build-base libffi-dev
